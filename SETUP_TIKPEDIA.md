@@ -1,6 +1,5 @@
 # TIKpedia Mobile - Panduan Mulai
 
-Project ini sudah dibangun ulang dari template Flutter kosong mengikuti mockup TIKpedia.
 
 ## Jalankan Flutter
 
